@@ -1,6 +1,6 @@
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/Alex7486/Cart-Ride/main/source'))()
 local Window = Rayfield:CreateWindow({
-	Name = "DevHub",
+	Name = "Hub",
 	LoadingTitle = "Cart Ride",
 	LoadingSubtitle = "by Dog",
 	ConfigurationSaving = {
